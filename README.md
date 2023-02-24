@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
 ## Threesome. _2018.02-2018.05._
-![[Threesome](/100.jpg)](https://ewwgene.github.io/Threesome/Carousel)<a href="https://ewwgene.github.io/Threesome/Carousel/#111"><img src="https://ewwgene.github.io/Threesome/111.jpg" height="66"></a> <a href="https://ewwgene.github.io/Threesome/Carousel/#113"><img src="https://ewwgene.github.io/Threesome/113.jpg" height="66"></a> <a href="https://ewwgene.github.io/Threesome/Carousel/#115"><img src="https://ewwgene.github.io/Threesome/115.jpg" height="66"></a> <a href="https://ewwgene.github.io/Threesome/Carousel/#117"><img src="https://ewwgene.github.io/Threesome/117.jpg" height="66"></a> 
+[![Threesome](/100.jpg)](https://ewwgene.github.io/Threesome/Carousel)<a href="https://ewwgene.github.io/Threesome/Carousel/#111"><img src="https://ewwgene.github.io/Threesome/111.jpg" height="66"></a> <a href="https://ewwgene.github.io/Threesome/Carousel/#113"><img src="https://ewwgene.github.io/Threesome/113.jpg" height="66"></a> <a href="https://ewwgene.github.io/Threesome/Carousel/#115"><img src="https://ewwgene.github.io/Threesome/115.jpg" height="66"></a> <a href="https://ewwgene.github.io/Threesome/Carousel/#117"><img src="https://ewwgene.github.io/Threesome/117.jpg" height="66"></a> 
 <br>
 **Overview**
  проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)
