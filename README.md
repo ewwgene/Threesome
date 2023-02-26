@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### Threesome. — _DESIGN SERIES._
+# [ewwgene.github.io /](https://ewwgene.github.io/) Threesome
+
 [![Threesome](/100.jpg)](https://ewwgene.github.io/Threesome/Carousel)<a id="111" href="https://ewwgene.github.io/Threesome/Carousel/#111"><img src="https://ewwgene.github.io/Threesome/111.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Threesome/Carousel/#113"><img src="https://ewwgene.github.io/Threesome/113.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Threesome/Carousel/#115"><img src="https://ewwgene.github.io/Threesome/115.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Threesome/Carousel/#117"><img src="https://ewwgene.github.io/Threesome/117.jpg" height="66"></a> <a id="text">&#160;</a>
 
 [_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
@@ -17,3 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="303" href="https://ewwgene.github.io/Threesome/Carousel/#303"><img src="https://ewwgene.github.io/Threesome/303.jpg" height="66"></a> <a id="304" href="https://ewwgene.github.io/Threesome/Carousel/#304"><img src="https://ewwgene.github.io/Threesome/304.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Threesome/Carousel/#305"><img src="https://ewwgene.github.io/Threesome/305.jpg" height="66"></a> <a id="307" href="https://ewwgene.github.io/Threesome/Carousel/#307"><img src="https://ewwgene.github.io/Threesome/307.jpg" height="66"></a> 
 
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
+
+### [ABOUT/](https://ewwgene.github.io/) 
