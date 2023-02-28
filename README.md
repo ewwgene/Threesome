@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Threesome
 
-[![Threesome](/100.jpg)](https://ewwgene.github.io/Threesome/Carousel)<a id="111" href="https://ewwgene.github.io/Threesome/Carousel/#111"><img src="https://ewwgene.github.io/Threesome/111.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Threesome/Carousel/#113"><img src="https://ewwgene.github.io/Threesome/113.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Threesome/Carousel/#115"><img src="https://ewwgene.github.io/Threesome/115.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Threesome/Carousel/#117"><img src="https://ewwgene.github.io/Threesome/117.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Threesome](/100.jpg)](https://ewwgene.github.io/Threesome/Carousel)<br> <a id="111" href="https://ewwgene.github.io/Threesome/Carousel/#111"><img src="https://ewwgene.github.io/Threesome/111.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Threesome/Carousel/#113"><img src="https://ewwgene.github.io/Threesome/113.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Threesome/Carousel/#115"><img src="https://ewwgene.github.io/Threesome/115.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Threesome/Carousel/#117"><img src="https://ewwgene.github.io/Threesome/117.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="303" href="https://ewwgene.github.io/Threesome/Carousel/#303"><img src="https://ewwgene.github.io/Threesome/303.jpg" height="66"></a> <a id="304" href="https://ewwgene.github.io/Threesome/Carousel/#304"><img src="https://ewwgene.github.io/Threesome/304.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Threesome/Carousel/#305"><img src="https://ewwgene.github.io/Threesome/305.jpg" height="66"></a> <a id="307" href="https://ewwgene.github.io/Threesome/Carousel/#307"><img src="https://ewwgene.github.io/Threesome/307.jpg" height="66"></a> 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
