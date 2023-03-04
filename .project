@@ -5,5 +5,5 @@
     "hardware": ["CNC_MILLING", "3D_SCANNING"],
     "software": ["MAYA", "ARTCAM", "RHINOCEROS_3D"],
     "overview": "Интерьерное зеркало в раме.",
-    "making": "Подготовка _`RIGGING`_ _3D_-модели персонажа в _`MAYA`_. Рама из массива дерева, покрытие поталью. Размеры _1600mm&times;1200mm_"
+    "making": "Подготовка _`RIGGING`_ _3D_-модели персонажа в _`MAYA`_. Рама из массива дерева, покрытие поталью.<br> Размеры _1600mm&times;1200mm_"
 }
