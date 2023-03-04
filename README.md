@@ -14,7 +14,7 @@ _`MAYA`_ _`ARTCAM`_ _`RHINOCEROS_3D`_  _**`CNC_MILLING`**_ _**`3D_SCANNING`**_
 
 Подготовка _`RIGGING`_ _3D_-модели персонажа в _`MAYA`_. Рама из массива дерева, покрытие поталью.<br> Размеры _1600mm&times;1200mm_
 
-<a id="303" href="https://ewwgene.github.io/Threesome/Carousel/#303"><img src="https://ewwgene.github.io/Threesome/303.jpg" height="66"></a> <a id="304" href="https://ewwgene.github.io/Threesome/Carousel/#304"><img src="https://ewwgene.github.io/Threesome/304.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Threesome/Carousel/#305"><img src="https://ewwgene.github.io/Threesome/305.jpg" height="66"></a> <a id="307" href="https://ewwgene.github.io/Threesome/Carousel/#307"><img src="https://ewwgene.github.io/Threesome/307.jpg" height="66"></a> 
+<a id="301" href="https://ewwgene.github.io/Threesome/Carousel/#301"><img src="https://ewwgene.github.io/Threesome/301.jpg" height="66"></a> <a id="304" href="https://ewwgene.github.io/Threesome/Carousel/#304"><img src="https://ewwgene.github.io/Threesome/304.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Threesome/Carousel/#305"><img src="https://ewwgene.github.io/Threesome/305.jpg" height="66"></a> <a id="307" href="https://ewwgene.github.io/Threesome/Carousel/#307"><img src="https://ewwgene.github.io/Threesome/307.jpg" height="66"></a> 
 
 _`DESIGN`_ _`SCULPTURE`_ _`MIRROR`_ _`RIGGING`_ 
 
