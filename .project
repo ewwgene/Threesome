@@ -1,9 +1,9 @@
 {
     "date": ["2018.02", "2018.05"],
-    "medium": ["DESIGN SERIES", "SCULPTURE"],
-    "material": ["SOLID_PINE_WOOD", "PLASTER"],
-    "hardware": ["SOLID_PINE_WOOD", "CNC_MILLING", "PLASTER", "GOLD_LEAF"],
-    "software": ["AUTODESK_MAYA_+_RIGGING", "ARTCAM" ,"CIMCO_EDIT"],
-    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "making": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "medium": ["DESIGN", "SCULPTURE", "MIRROR", "RIGGING"],
+    "material": ["SOLID_PINE_WOOD", "PLASTER", "GOLD_LEAF"],
+    "hardware": ["CNC_MILLING", "3D_SCANNING"],
+    "software": ["MAYA", "ARTCAM", "RHINOCEROS_3D"],
+    "overview": "Интерьерное зеркало в раме.",
+    "making": "Подготовка _`RIGGING`_ _3D_-модели персонажа в _`MAYA`_. Рама из массива дерева, покрытие поталью. Размеры _1600mm&times;1200mm_"
 }
